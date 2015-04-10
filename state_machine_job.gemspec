@@ -24,5 +24,5 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'resque'
   spec.add_runtime_dependency 'resque-logger'
-  spec.add_runtime_dependency 'state_machine'
+  spec.add_runtime_dependency 'state_machines'
 end
